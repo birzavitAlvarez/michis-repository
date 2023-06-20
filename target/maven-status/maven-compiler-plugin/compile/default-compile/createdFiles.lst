@@ -1,0 +1,6 @@
+com\gatos\michis\Controller\MichiController.class
+com\gatos\michis\Repository\MichiRepository.class
+com\gatos\michis\MichisApplication.class
+com\gatos\michis\Controller\GatoController.class
+com\gatos\michis\Model\Gato.class
+com\gatos\michis\Model\Michi.class
